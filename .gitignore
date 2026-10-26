@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+# Personal: the designer plan (name, address) and your saved edits stay off GitHub
+photos/
+data/state.json
